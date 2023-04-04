@@ -104,8 +104,7 @@
         </g>
       </g>
     </g>
-  </svg></span
-		>
+  </svg>
 		<span class="ml-2">Deploy</span>
 	</a>
 </div>
